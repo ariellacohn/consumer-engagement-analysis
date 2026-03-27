@@ -3,6 +3,13 @@
 **Portfolio project demonstrating consumer marketplace analytics skills**
 *Framed for a Match Group / Tinder product analytics audience*
 
+
+## About This Project
+
+I've always been fascinated by what makes people click, literally and figuratively. Dating apps sit at this interesting intersection of behavioral psychology and product design, where the data people share (or choose not to share) about themselves reveals so much about how they want to be seen.
+
+When I found the OkCupid dataset, I wanted to approach it the way a product analyst at Tinder actually would: not just describing who's on the platform, but asking what drives engagement, where users drop off, and what that means for product decisions. This is that analysis.
+
 ---
 
 ## Overview
